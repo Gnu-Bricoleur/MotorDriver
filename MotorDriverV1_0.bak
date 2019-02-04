@@ -929,7 +929,7 @@ U 1 1 5C508C2B
 P 9800 5000
 F 0 "J10" H 9850 5417 50  0000 C CNN
 F 1 "Conn_02x06_Odd_Even" H 9850 5326 50  0000 C CNN
-F 2 "Connector_IDC:IDC-Header_2x05_P2.54mm_Vertical" H 9800 5000 50  0001 C CNN
+F 2 "Connector_IDC:IDC-Header_2x06_P2.54mm_Vertical" H 9800 5000 50  0001 C CNN
 F 3 "~" H 9800 5000 50  0001 C CNN
 	1    9800 5000
 	1    0    0    -1  

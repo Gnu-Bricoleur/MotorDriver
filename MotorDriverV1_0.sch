@@ -27,9 +27,9 @@ A2
 Text Label 8900 2800 0    60   ~ 0
 A3
 Text Label 8900 2900 0    60   ~ 0
-A4(SDA)
+A4(SDA_2)
 Text Label 8900 3000 0    60   ~ 0
-A5(SCL)
+A5(SCL_2)
 Text Label 10550 3000 0    60   ~ 0
 0(Rx)
 Text Label 10550 2800 0    60   ~ 0
